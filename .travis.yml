@@ -1,0 +1,14 @@
+language: csharp
+mono: none
+dotnet: 2.2.101
+
+stages:
+  - compile
+  - test
+  - name: deploy
+    if: branch = master OR branch = development
+
+jobs:
+  include:
+    - stage: compile
+      script: dotnet restore

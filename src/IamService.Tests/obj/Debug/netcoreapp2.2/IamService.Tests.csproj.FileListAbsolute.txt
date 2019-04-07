@@ -1,0 +1,17 @@
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\bin\Debug\netcoreapp2.2\IamService.Tests.deps.json
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\bin\Debug\netcoreapp2.2\IamService.Tests.runtimeconfig.json
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\bin\Debug\netcoreapp2.2\IamService.Tests.runtimeconfig.dev.json
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\bin\Debug\netcoreapp2.2\IamService.Tests.dll
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\bin\Debug\netcoreapp2.2\IamService.Tests.pdb
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\bin\Debug\netcoreapp2.2\IamService.dll
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\bin\Debug\netcoreapp2.2\IamService.pdb
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\obj\Debug\netcoreapp2.2\IamService.Tests.csprojAssemblyReference.cache
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\obj\Debug\netcoreapp2.2\IamService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\obj\Debug\netcoreapp2.2\IamService.Tests.AssemblyInfoInputs.cache
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\obj\Debug\netcoreapp2.2\IamService.Tests.AssemblyInfo.cs
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\obj\Debug\netcoreapp2.2\IamService.Tests.csproj.CopyComplete
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\obj\Debug\netcoreapp2.2\IamService.Tests.dll
+C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService.Tests\obj\Debug\netcoreapp2.2\IamService.Tests.pdb
