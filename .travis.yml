@@ -12,3 +12,5 @@ jobs:
   include:
     - stage: compile
       script: dotnet restore
+    - script: dotnet build
+  
