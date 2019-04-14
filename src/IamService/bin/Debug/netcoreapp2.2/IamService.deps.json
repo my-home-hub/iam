@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "61f47b21a788e3609aae794185c5f5511bf2a346"
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "compilationOptions": {
     "defines": [
@@ -26,8 +26,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
-          "Microsoft.NETCore.App": "2.2.0",
-          "coverlet.msbuild": "2.6.0"
+          "Microsoft.NETCore.App": "2.2.0"
         },
         "runtime": {
           "IamService.dll": {}
@@ -36,7 +35,6 @@
           "IamService.dll": {}
         }
       },
-      "coverlet.msbuild/2.6.0": {},
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
@@ -3238,13 +3236,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "coverlet.msbuild/2.6.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-UgWFUV5x4pTkoIvytNyOpjKxOIVguawsBbJ4DPxJwqGegYOUCzwktoDsr2OwYypHmBYzGQJtKg2XkbBQmD/CXA==",
-      "path": "coverlet.msbuild/2.6.0",
-      "hashPath": "coverlet.msbuild.2.6.0.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

@@ -2,28 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed5c428-0ed5-4c7b-b59d-bcee4feb2311" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IamService/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IamService/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IamService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IamService/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IamService/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IamService/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/IamService.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/IamService.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/UnitTest1.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService/IamService.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/IamService.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService/bin/Debug/netcoreapp2.2/IamService.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/bin/Debug/netcoreapp2.2/IamService.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/bin/Debug/netcoreapp2.2/IamService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/bin/Debug/netcoreapp2.2/IamService.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/bin/Debug/netcoreapp2.2/IamService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/bin/Debug/netcoreapp2.2/IamService.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService/obj/Debug/netcoreapp2.2/IamService.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/Debug/netcoreapp2.2/IamService.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/obj/Debug/netcoreapp2.2/IamService.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/Debug/netcoreapp2.2/IamService.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/obj/Debug/netcoreapp2.2/IamService.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/Debug/netcoreapp2.2/IamService.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IamService/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,13 +48,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IamService.Tests/UnitTest1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="144">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
-                <marker date="1555234848940" expanded="false" signature="6:26" ph="..." />
-                <marker date="1555234848940" expanded="true" signature="54:173" ph="{...}" />
-                <marker date="1555234848940" expanded="true" signature="83:171" ph="{...}" />
-                <marker date="1555234848940" expanded="true" signature="132:165" ph="{...}" />
+                <marker date="1555243121807" expanded="false" signature="6:26" ph="..." />
+                <marker date="1555243121807" expanded="true" signature="54:191" ph="{...}" />
+                <marker date="1555243121807" expanded="true" signature="83:189" ph="{...}" />
+                <marker date="1555243121807" expanded="true" signature="132:183" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -52,8 +63,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/IamService.Tests/IamService.Tests.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="144">
+              <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IamService/IamService.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -131,9 +151,10 @@
       <list>
         <option value="$PROJECT_DIR$/IamService.Tests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/IamService.sln" />
-        <option value="$PROJECT_DIR$/src/IamService.Tests/IamService.Tests.csproj" />
-        <option value="$PROJECT_DIR$/src/IamService.Tests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/src/IamService/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/src/IamService/IamService.csproj" />
+        <option value="$PROJECT_DIR$/src/IamService.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/src/IamService.Tests/IamService.Tests.csproj" />
       </list>
     </option>
   </component>
@@ -164,6 +185,12 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="IamService" type="24d0babc:SolutionExplorerModelNode" />
               <item name="IamService.Tests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="IamService" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="IamService.Tests" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -229,12 +256,12 @@
       <updated>1554661624325</updated>
       <workItem from="1554661625465" duration="323000" />
       <workItem from="1554662080073" duration="359000" />
-      <workItem from="1555235725230" duration="2818000" />
+      <workItem from="1555235725230" duration="4507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3500000" />
+    <option name="totallyTimeSpent" value="5189000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -247,6 +274,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" />
       <window_info id="Image Layers" />
@@ -350,23 +378,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/IamService/IamService.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IamService.Tests/coverage.opencover.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/IamService.Tests/UnitTest1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="144">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
-            <marker date="1555234848940" expanded="false" signature="6:26" ph="..." />
-            <marker date="1555234848940" expanded="true" signature="54:173" ph="{...}" />
-            <marker date="1555234848940" expanded="true" signature="83:171" ph="{...}" />
-            <marker date="1555234848940" expanded="true" signature="132:165" ph="{...}" />
+            <marker date="1555243121807" expanded="false" signature="6:26" ph="..." />
+            <marker date="1555243121807" expanded="true" signature="54:191" ph="{...}" />
+            <marker date="1555243121807" expanded="true" signature="83:189" ph="{...}" />
+            <marker date="1555243121807" expanded="true" signature="132:183" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IamService.Tests/IamService.Tests.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="144">
+          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
         </state>
       </provider>
     </entry>
