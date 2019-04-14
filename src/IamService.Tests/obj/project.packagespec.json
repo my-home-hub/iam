@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\MyHomeHub\\IamService\\src\\IamService.Tests\\IamService.Tests.csproj",
+    "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\iam\\src\\IamService.Tests\\IamService.Tests.csproj",
     "projectName": "IamService.Tests",
-    "projectPath": "C:\\Users\\steve\\RiderProjects\\MyHomeHub\\IamService\\src\\IamService.Tests\\IamService.Tests.csproj",
-    "outputPath": "C:\\Users\\steve\\RiderProjects\\MyHomeHub\\IamService\\src\\IamService.Tests\\obj\\",
+    "projectPath": "C:\\Users\\steve\\RiderProjects\\iam\\src\\IamService.Tests\\IamService.Tests.csproj",
+    "outputPath": "C:\\Users\\steve\\RiderProjects\\iam\\src\\IamService.Tests\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "C:\\Users\\steve\\RiderProjects\\MyHomeHub\\IamService\\src\\IamService\\IamService.csproj": {
-            "projectPath": "C:\\Users\\steve\\RiderProjects\\MyHomeHub\\IamService\\src\\IamService\\IamService.csproj"
+          "C:\\Users\\steve\\RiderProjects\\iam\\src\\IamService\\IamService.csproj": {
+            "projectPath": "C:\\Users\\steve\\RiderProjects\\iam\\src\\IamService\\IamService.csproj"
           }
         }
       }

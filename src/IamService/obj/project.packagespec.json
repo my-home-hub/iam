@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\MyHomeHub\\IamService\\src\\IamService\\IamService.csproj",
+    "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\iam\\src\\IamService\\IamService.csproj",
     "projectName": "IamService",
-    "projectPath": "C:\\Users\\steve\\RiderProjects\\MyHomeHub\\IamService\\src\\IamService\\IamService.csproj",
-    "outputPath": "C:\\Users\\steve\\RiderProjects\\MyHomeHub\\IamService\\src\\IamService\\obj\\",
+    "projectPath": "C:\\Users\\steve\\RiderProjects\\iam\\src\\IamService\\IamService.csproj",
+    "outputPath": "C:\\Users\\steve\\RiderProjects\\iam\\src\\IamService\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

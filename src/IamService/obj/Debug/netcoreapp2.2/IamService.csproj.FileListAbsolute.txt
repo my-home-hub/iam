@@ -12,3 +12,17 @@ C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService\obj\Debug\netco
 C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService\obj\Debug\netcoreapp2.2\IamService.RazorTargetAssemblyInfo.cache
 C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService\obj\Debug\netcoreapp2.2\IamService.dll
 C:\Users\steve\RiderProjects\MyHomeHub\IamService\src\IamService\obj\Debug\netcoreapp2.2\IamService.pdb
+C:\Users\steve\RiderProjects\iam\src\IamService\bin\Debug\netcoreapp2.2\IamService.deps.json
+C:\Users\steve\RiderProjects\iam\src\IamService\bin\Debug\netcoreapp2.2\IamService.runtimeconfig.json
+C:\Users\steve\RiderProjects\iam\src\IamService\bin\Debug\netcoreapp2.2\IamService.runtimeconfig.dev.json
+C:\Users\steve\RiderProjects\iam\src\IamService\bin\Debug\netcoreapp2.2\IamService.dll
+C:\Users\steve\RiderProjects\iam\src\IamService\bin\Debug\netcoreapp2.2\IamService.pdb
+C:\Users\steve\RiderProjects\iam\src\IamService\obj\Debug\netcoreapp2.2\IamService.csprojAssemblyReference.cache
+C:\Users\steve\RiderProjects\iam\src\IamService\obj\Debug\netcoreapp2.2\IamService.csproj.CoreCompileInputs.cache
+C:\Users\steve\RiderProjects\iam\src\IamService\obj\Debug\netcoreapp2.2\IamService.RazorAssemblyInfo.cache
+C:\Users\steve\RiderProjects\iam\src\IamService\obj\Debug\netcoreapp2.2\IamService.RazorAssemblyInfo.cs
+C:\Users\steve\RiderProjects\iam\src\IamService\obj\Debug\netcoreapp2.2\IamService.AssemblyInfoInputs.cache
+C:\Users\steve\RiderProjects\iam\src\IamService\obj\Debug\netcoreapp2.2\IamService.AssemblyInfo.cs
+C:\Users\steve\RiderProjects\iam\src\IamService\obj\Debug\netcoreapp2.2\IamService.RazorTargetAssemblyInfo.cache
+C:\Users\steve\RiderProjects\iam\src\IamService\obj\Debug\netcoreapp2.2\IamService.dll
+C:\Users\steve\RiderProjects\iam\src\IamService\obj\Debug\netcoreapp2.2\IamService.pdb
