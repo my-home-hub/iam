@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ed5c428-0ed5-4c7b-b59d-bcee4feb2311" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IamService/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IamService/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IamService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IamService/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IamService/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IamService/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/IamService.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/IamService.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/UnitTest1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/IamService.Tests.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/Debug/netcoreapp2.2/IamService.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/IamService.Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService.Tests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/IamService.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/IamService.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/bin/Debug/netcoreapp2.2/IamService.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/bin/Debug/netcoreapp2.2/IamService.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/obj/Debug/netcoreapp2.2/IamService.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/Debug/netcoreapp2.2/IamService.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/IamService.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IamService/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/IamService/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -256,12 +223,12 @@
       <updated>1554661624325</updated>
       <workItem from="1554661625465" duration="323000" />
       <workItem from="1554662080073" duration="359000" />
-      <workItem from="1555235725230" duration="4507000" />
+      <workItem from="1555235725230" duration="4805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5189000" />
+    <option name="totallyTimeSpent" value="5487000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -274,7 +241,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" />
       <window_info id="Image Layers" />
