@@ -26,7 +26,7 @@ jobs:
     - stage: test
       script:
         - dotnet test IamService/Iam.Tests/Iam.Tests.csproj /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
-        - dotnet sonarscanner begin /k:"MF" /d:sonar.host.url=https://sonarcloud.io /d:sonar.organization="my-finances" /d:sonar.login="b8de6fc2e0fd00bc0b30a3f9ee84a1948a1fc580" /d:sonar.cs.opencover.reportsPaths="IamService/Iam.Tests/coverage.opencover.xml" /d:sonar.coverage.exclusions="**Tests*.cs"
+        - dotnet sonarscanner begin /k:"MF" /d:sonar.host.url=https://sonarcloud.io /o:"my-finances" /d:sonar.login="b8de6fc2e0fd00bc0b30a3f9ee84a1948a1fc580" /d:sonar.cs.opencover.reportsPaths="IamService/Iam.Tests/coverage.opencover.xml" /d:sonar.coverage.exclusions="**Tests*.cs"
         - dotnet build
         - dotnet sonarscanner end /d:sonar.login="89e81ebd21fafc07ddba09ca2b1a76d5aeb528b6"
 

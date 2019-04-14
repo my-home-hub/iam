@@ -57,8 +57,10 @@
               "autoReferenced": true
             },
             "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "(, )"
+              "version": "[2.6.0, )"
             }
           },
           "imports": [
